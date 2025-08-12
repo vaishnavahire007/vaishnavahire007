@@ -12,8 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishnavahire007&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavahire007&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavahire007&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vaishnavahire007&icon=7&color=4)](https://visitcount.itsvg.in)
