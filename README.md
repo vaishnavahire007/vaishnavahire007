@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 Working on: Full-stack projects with Node.js, Express, MongoDB and React<br>🌱 Learning: Advanced JavaScript, React, REST APIs, Blockchain, and Web3<br>🤝 Open to: Web development collaborations<br>💬 Ask me about: Backend development, APIs, and frontend integration<br>⚡ Fun fact: I can turn ideas into working web apps fast!
 
+## 🚀 Featured Project
+
+### [True Nutritionist](https://www.truenutritionist.in)
+AI-powered nutrition tracker — photograph your meal or type what you ate, get an instant, accurate breakdown (calories, protein, carbs, fat, fiber, sugar) pulled from real USDA nutrition data.
+
+**Built with:** Next.js · TypeScript · Prisma · PostgreSQL · Razorpay · NextAuth · Sentry
+
+🔗 Live: [truenutritionist.in](https://www.truenutritionist.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@kingvaishnav071460) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaishnav-ahire) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@vaishnavahire007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaishnavahire007@gmail.com) 
